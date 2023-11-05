@@ -41,7 +41,7 @@ const Navbar = (props) => {
                     </Link>
                     <div className="flex items-center justify-between">
                         <>
-                            <DropDown title="About Us" children={["Home", "About BloodLink", "Contact Us"]} links={["/", "/about", "/contactUs"]}></DropDown>
+                            <DropDown title="About Us" children={["Home", "About Rakht", "Contact Us"]} links={["/", "/about", "/contactUs"]}></DropDown>
                             {props.logIn ? (
                                 <>
                                     <Link

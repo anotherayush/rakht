@@ -25,7 +25,7 @@ const DropDown = (props) => {
     </span>
       
     </button>
-    <ul className="ml-6 px-2 py-2 absolute hidden text-gray-700 pt-1 z-10 group-hover:block w-max bg-white-900 hover:drop-shadow-2xl border-blood hover:border-b-2 dark:bg-white-900 rounded-tl-lg rounded-r-lg rounded-b-lg">
+    <ul className="ml-6 px-2 py-2 absolute hidden text-gray-700 pt-1 z-10 group-hover:block w-max bg-white-900 hover:drop-shadow-2xl border-blood hover:border-b-2 dark:bg-white-900 rounded-tl-lg rounded-tr-lg rounded-b-lg">
         {
             props.children.map((e,i)=>{
                 console.log('eee', e)
