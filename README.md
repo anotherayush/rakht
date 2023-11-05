@@ -24,7 +24,12 @@
  - Tailwind
  - Node JS
  - Express 
- - Mongoose 
+ - Mongoose
+
+ ## Project Development
+ - Made in Hackout 2023 [DTU]
+ - Original code with guidance of tutorials and documentations.
+ - The help of ChatGPT was used to help in errors and get snippets.
 
 ## Steps to Run :
  ### For Client Side
@@ -41,5 +46,3 @@
 - Kaamil Savla
 - Naresh Kumar
 - Saumya Srivastava
-
-
